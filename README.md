@@ -182,8 +182,8 @@ memory_patterns = [
    - Expected: Response mentions Python based on stored memory
 
 3. **Memory Management**:
-   - Search for "Python" → Should find relevant memories
-   - Delete memories containing "Python" → Should remove related memories
+   - Search for "Python" --> Should find relevant memories
+   - Delete memories containing "Python" --> Should remove related memories
 
 ### Demo Scenario
 
